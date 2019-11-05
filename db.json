@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "peso": 28,
+            "unidad": "Kg",
+            "fecha": "AAAA/MM/DD @ HH:MM:SS UTC"
+        },
+        {
+            "id": 2,
+            "peso": 34,
+            "unidad": "Kg",
+            "fecha": "1572911110"
+        },
+        {
+            "id": 3,
+            "peso": 1200,
+            "unidad": "gr",
+            "fecha": "Tue Mar 24 2015 19:00:00 GMT-0500"
+        }
+    ]
+}
